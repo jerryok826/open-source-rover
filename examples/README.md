@@ -4,7 +4,7 @@ OSRs in the wild and under construction! Please [add your rover](#Instructions-f
 
 # <ins>V2 Rovers</ins>
 
-## jerrys_rover (res) ([jerryok826](https://github.com/jerryok826))
+## jerrys_rover ([jerryok826](https://github.com/jerryok826))
 | <image src="images/jerrys_rover/rover_lawn_1.jpeg" height="175"> <image src="images/jerrys_rover/rover_monitor_pcb.jpg" height="175"> 
 |:-:|
 
