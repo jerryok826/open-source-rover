@@ -16,6 +16,8 @@ I always wanted to build an outdoor rover so I started building the JPL rover in
 ### Modifications
 * Added OLED info display with shutdown and run buttons.
 * Audible alarm for of battery state.
+* Make one yourself [here](https://github.com/jerryok826/rover-monitor)
+
 </details>
 
 ## Resilience (res) ([murphcj](https://github.com/murphcj))
